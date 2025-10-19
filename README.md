@@ -1,4 +1,3 @@
-## this is become mine
 # Database Backup Service
 
 This project is an automated service for managing database backups, designed to ensure data safety and reliability. The service goes through several stages from configuration to deployment:
